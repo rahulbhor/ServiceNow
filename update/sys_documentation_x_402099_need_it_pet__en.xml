@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="pet" language="en" table="x_402099_need_it_pet">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>pet</label>
+            <language>en</language>
+            <name>x_402099_need_it_pet</name>
+            <plural>pets</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-09-10 09:31:30</sys_created_on>
+            <sys_id>b1f8afa1dbb33300585ecd3f299619e9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>pet</sys_name>
+            <sys_package display_value="Need It" source="x_402099_need_it">1ef76a98dbf77300585ecd3f299619d2</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Need It">1ef76a98dbf77300585ecd3f299619d2</sys_scope>
+            <sys_update_name>sys_documentation_x_402099_need_it_pet__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-09-10 09:31:30</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

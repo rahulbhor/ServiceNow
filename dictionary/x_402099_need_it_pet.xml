@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="pet" max_length="40" name="x_402099_need_it_pet" type="collection">
+        <element label="Bio" max_length="100" name="bio" type="string"/>
+        <element label="Name" max_length="30" name="name" type="string"/>
+        <element label="PetImg" max_length="40" name="petimg" type="user_image"/>
+    </element>
+</database>
